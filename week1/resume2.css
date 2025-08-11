@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Colorful Resume - G. Usha Sai Bhavani</title>
+
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fff5e6; /* peach background */
+      margin: 40px;
+      color: #3a3a3a; /* dark gray text */
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 36px;
+      color: #800000; /* maroon */
+    }
+
+    .name {
+      text-align: center;
+      font-size: 24px;
+      color: #4b0082;
+      margin-top: -10px;
+      margin-bottom: 40px;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 24px;
+      color: #b30000;
+      margin-top: 40px;
+      border-bottom: 2px solid #ffb3b3;
+    }
+
+    h3 {
+      font-size: 18px;
+      color: #4d004d;
+      margin-top: 20px;
+    }
+
+    p {
+      font-size: 16px;
+      color: #333;
+    }
+
+    ul {
+      font-size: 16px;
+      margin-left: 20px;
+      list-style-type: square;
+      color: #5e17eb;
+    }
+
+    /* Signature b*
